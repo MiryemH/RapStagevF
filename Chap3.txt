@@ -1,4 +1,5 @@
 La visualisation des données, c'est comme
 si les données prenaient vie pour raconter leur propre histoire, avec des
 graphiques et des diagrammes comme acteurs principaux.
-Il ne faut jamais faire les choses à moitié!!!
+#Citation
+Il ne faut jamais faire les choses à moitié car ca ne rapporte que du regret!!!
